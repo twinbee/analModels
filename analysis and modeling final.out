@@ -1,0 +1,12 @@
+\BOOKMARK [1][-]{section.1}{Bus-Contention Free Architectures}{}
+\BOOKMARK [1][-]{section.2}{Shared Memory Systems}{}
+\BOOKMARK [2][-]{subsection.2.1}{Single-Bus Shared Memory Systems}{section.2}
+\BOOKMARK [3][-]{subsubsection.2.1.1}{Exponential Distribution}{subsection.2.1}
+\BOOKMARK [3][-]{subsubsection.2.1.2}{Erlang-k Distribution}{subsection.2.1}
+\BOOKMARK [3][-]{subsubsection.2.1.3}{Hyper-Exponential Distribution}{subsection.2.1}
+\BOOKMARK [3][-]{subsubsection.2.1.4}{Queueing disciplines}{subsection.2.1}
+\BOOKMARK [2][-]{subsection.2.2}{Multi-Bus Shared Memory Systems}{section.2}
+\BOOKMARK [1][-]{section.3}{Distributed Memory Systems}{}
+\BOOKMARK [1][-]{section.4}{Extended Petri Nets}{}
+\BOOKMARK [1][-]{section.5}{Fault Tolerance Modeling}{}
+\BOOKMARK [1][-]{section.6}{Analysis and Verification}{}
